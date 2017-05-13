@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_tool_test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "phb2016 <billa2013@163.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
